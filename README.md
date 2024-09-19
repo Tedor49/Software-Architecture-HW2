@@ -12,10 +12,10 @@ py -m pip install requests flask pylint
 
 ## How to use
 
-To launch the server, type the following command:
+To launch the server, run the following command:
 ``` py server.py ```
 
-To launch the client, type the following command:
+To launch the client, run the following command:
 ``` py client.py ```
 
 Alternatively, if .py files are associated on your device, you may simply execute the code files by double-clicking them.
